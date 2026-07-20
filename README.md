@@ -10,7 +10,7 @@
 <h2>📘 Project Overview</h2>
 
 <p>
-This <b>Task Manager CLI</b> is a Python-based personal productivity tool that helps you manage your daily to-do items from the command line.
+This <b>Python Task Manager CLI</b> is a Python-based personal productivity tool that helps you manage your daily to-do items from the command line.
 It automatically adjusts task priorities as deadlines approach and stores all data locally in a <code>tasks.json</code> file, so your progress is always saved between sessions.
 </p>
 
@@ -34,7 +34,7 @@ It automatically adjusts task priorities as deadlines approach and stores all da
 <h2>🧩 Folder Structure</h2>
 
 <pre>
-TaskManager/
+PythonTaskManager/
 │
 ├── task_manager.py     # Main script (this file)
 ├── README.md           # Project documentation
@@ -49,10 +49,10 @@ TaskManager/
 <ol>
   <li>Make sure you have <b>Python 3.13 or above</b> installed.</li>
   <li>Download or clone this repository:
-    <pre>git clone https://github.com/Sheikh-H/TaskManager.git</pre>
+    <pre>git clone https://github.com/Sheikh-H/PythonTaskManager.git</pre>
   </li>
   <li>Navigate into the project folder:
-    <pre>cd TaskManager</pre>
+    <pre>cd PythonTaskManager</pre>
   </li>
   <li>Run the program:
     <pre>python task_manager.py</pre>
@@ -169,7 +169,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 </pre>
 
-
 ---
 
 ## Footnote
@@ -188,6 +187,5 @@ SOFTWARE.
 </div>
 
 ---
-
 
 <h2 align="center">⭐ If you like this project, please give it a star on GitHub!</h2>
