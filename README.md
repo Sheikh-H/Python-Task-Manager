@@ -1,4 +1,4 @@
-<h1 align="center">🗂️ Task Manager (CLI Edition)</h1>
+<h1 align="center">🗂️ Python Task Manager (CLI)</h1>
 
 <p align="center">
   <b>A simple yet powerful command-line task management system built with Python.</b><br>
